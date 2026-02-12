@@ -1,4 +1,8 @@
 # Agent Execution System - PlanExe Integration Points
+**Author:** openai-codex/gpt-5.1-codex-mini  
+**Model:** openai-codex/gpt-5.1-codex-mini  
+**Generated on:** 11 February 2026  
+
 
 ## Overview
 

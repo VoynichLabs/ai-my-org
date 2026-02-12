@@ -1,4 +1,8 @@
 # Agent Execution System - Implementation Checklist
+**Author:** openai-codex/gpt-5.1-codex-mini  
+**Model:** openai-codex/gpt-5.1-codex-mini  
+**Generated on:** 11 February 2026  
+
 
 Use this checklist to track implementation progress. Each section can be completed by a sub-agent or developer.
 

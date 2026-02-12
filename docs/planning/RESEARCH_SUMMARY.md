@@ -1,4 +1,8 @@
 # OpenClaw Deployment Research - Executive Summary
+**Author:** openai-codex/gpt-5.1-codex-mini  
+**Model:** openai-codex/gpt-5.1-codex-mini  
+**Generated on:** 11 February 2026  
+
 **Research Date:** February 11, 2026  
 **Research Scope:** OpenClaw remote deployment, Railway, AWS, Docker, systemd, secrets, monitoring  
 **Status:** ✅ Complete with 3 comprehensive guides

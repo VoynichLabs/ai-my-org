@@ -1,4 +1,8 @@
 # ai-my.org - Agent Execution Platform
+**Author:** openai-codex/gpt-5.1-codex-mini  
+**Model:** openai-codex/gpt-5.1-codex-mini  
+**Generated on:** 11 February 2026  
+
 
 Research and architecture documentation for building an autonomous agent execution platform powered by OpenClaw.
 

@@ -1,4 +1,8 @@
 # Agent Execution System - Implementation Guide
+**Author:** openai-codex/gpt-5.1-codex-mini  
+**Model:** openai-codex/gpt-5.1-codex-mini  
+**Generated on:** 11 February 2026  
+
 
 ## 1. Data Models & Database Schema
 
